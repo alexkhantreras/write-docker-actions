@@ -1,1 +1,1 @@
-Create requirements.txt with your Python dependencies
+requests
